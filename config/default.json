@@ -1,0 +1,13 @@
+{
+  "Server": {
+    "port": 3001
+  },
+  "Setup": {
+    "dropDatabase": false,
+    "data": false
+  },
+  "Database": {
+    "dbName": "nnxt",
+    "url": "mongodb://localhost/koa-react-starter"
+  }
+}
